@@ -1,3 +1,4 @@
 streamlit
-python-dotenv
+# python-dotenv
 dashscope
+weave
